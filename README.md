@@ -6,7 +6,7 @@
 
 I'm a systems analyst who has been working as Back-end Jr since 2019. 💻 
 
-<div align="center">
+<div>
   <a href="https://github.com/jhongomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhongomes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhongomes&layout=compact&langs_count=7&theme=material-palenight"/>
