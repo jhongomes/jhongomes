@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jhonatangomes859@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatangomes859@gmail.com)](mailto:jhonatangomes859@gmail.com)
 
 
-I'm a systems analyst who has been working as Back-end Jr since 2019. 💻 
+I'm a systems analyst who has been working as Back-end NodeJS Development since 2019. 💻 
 
   <div>
   <a href="https://github.com/jhongomes">  
